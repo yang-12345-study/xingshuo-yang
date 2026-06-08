@@ -1,27 +1,22 @@
-# Personal Academic Homepage
+# Xingshuo Yang
 
-This is a minimal static homepage for GitHub Pages.
+**Xingshuo Yang** is a sophomore undergraduate student majoring in
+**Information Security** at the **School of Cybersecurity, Northwestern
+Polytechnical University**.
 
-## Edit before publishing
+He is a member of the 2024 undergraduate cohort and currently serves as the
+class monitor of the elite program in the School of Cybersecurity. His academic
+interests focus on **underwater vision foundation models**.
 
-Open `index.html` if you want to revise:
+Xingshuo Yang received the **National Scholarship** and achieved a first-year
+average GPA score of **94.35**. He earned scores of 90 or above in 23 courses,
+including full marks in 15 courses such as **Calculus**, **Discrete
+Mathematics**, **Data Structures**, and **Fundamentals of Programming**.
 
-- name
-- school
-- major
-- email
-- GitHub username
-- research interests in the About section
+## Contact
 
-## Publish with GitHub Pages
+Email: [yangxingshuo123@gmail.com](mailto:yangxingshuo123@gmail.com)
 
-1. Create a public GitHub repository named `xingshuo-yang`.
-2. Upload `index.html` and `style.css` to that repository.
-3. Open the repository on GitHub.
-4. Go to **Settings** > **Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select branch `main` and folder `/root`, then save.
-7. Wait 1-3 minutes.
-8. Visit `https://yang-12345-study.github.io/xingshuo-yang/`.
+## Links
 
-Use that URL as your personal academic link for OpenReview.
+GitHub: [yang-12345-study](https://github.com/yang-12345-study)

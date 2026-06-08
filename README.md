@@ -59,6 +59,8 @@ where he studied computational thinking.
 
 Email: [yangxingshuo123@gmail.com](mailto:yangxingshuo123@gmail.com)
 
+School'Email: [yangxingshuo@mail.nwpu.edu.cn](mailto:yangxingshuo@mail.nwpu.edu.cn)
+
 ORCID: [0009-0004-9820-9992](https://orcid.org/0009-0004-9820-9992)
 
 GitHub: [yang-12345-study](https://github.com/yang-12345-study)
